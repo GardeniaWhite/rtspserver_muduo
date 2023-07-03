@@ -1,0 +1,3 @@
+/home/gardenia/RtspServer_tiny/base_net/build/CMakeFiles/rebuild_cache.dir
+/home/gardenia/RtspServer_tiny/base_net/build/CMakeFiles/basemuduo.dir
+/home/gardenia/RtspServer_tiny/base_net/build/CMakeFiles/edit_cache.dir
