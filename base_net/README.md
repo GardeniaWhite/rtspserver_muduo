@@ -61,7 +61,7 @@ sudo apt-get install cmake
 下载项目
 
 ```shell
-git clone git@github.com:GardeniaWhite/tiny_muduo.git
+git clone git@github.com:GardeniaWhite/rtspserver_muduo.git
 ```
 
 执行脚本构建项目
